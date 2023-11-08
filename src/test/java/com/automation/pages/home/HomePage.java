@@ -24,8 +24,8 @@ public class HomePage extends BasePage {
 	
 	public String getTextFromHomePage() {
 		waitForVisibility(HomePageEle, 5,"Salesforce Home Page");
-		String data= getTextFromElement(HomePageEle, "Salesforce Home Page");
-		myLog.info("text extracted from registartion page="+data);
+		String data= getTextFromWebElement(HomePageEle, "Salesforce Home Page");
+		log.info("text extracted from registartion page="+data);
 		return data;
 	}
 	
@@ -39,20 +39,5 @@ public class HomePage extends BasePage {
 		clickElement(LogoutEle,"Logout button");
 		return driver;
 		
-	}
-	
-	public static void waitForVisibility(WebElement ele,int time, int pollingtime, String ObjectName) {
-		
-		FluentWait<WebDriver> wait = new FluentWait<WebDriver>(driver);
-		wait.withTimeout(Duration.ofSeconds(time))
-		.pollingEvery(Duration.ofSeconds(pollingtime))
-		.ignoring(ElementNotInteractableException.class);
-			
-	}
-	
-	public static void waitForVisibility(WebElement ele,int time, String objectName) {
-		
-		wait= new WebDriverWait(driver,Duration.ofSeconds(time));
-		wait.until(ExpectedConditions.visibilityOf(ele));
 	}
 }

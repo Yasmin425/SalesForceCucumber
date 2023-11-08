@@ -8,7 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 import com.automation.pages.base.BasePage;
 
 public class LoginPage extends BasePage{
-	@FindBy(xpath="//*[@id=\"username\"]") WebElement userNameElement;
+	@FindBy(name="username") WebElement userNameElement;
 	@FindBy(id="password") WebElement passwordElement;
 	@FindBy(id="Login") WebElement loginButtonElement;
 	@FindBy(id="rememberUn") WebElement RememberMeElement;
@@ -51,22 +51,22 @@ public class LoginPage extends BasePage{
 	}
 	public String getTextFromEmptyPWLoginerrormessage() {
 		waitForVisibility(EmptyPWLoginErrorElement, 5,"Empty password login error message");
-		String data= getTextFromElement(EmptyPWLoginErrorElement, "Empty password login error message");
-		myLog.info("text extracted from registartion page="+data);
+		String data= getTextFromWebElement(EmptyPWLoginErrorElement, "Empty password login error message");
+		log.info("text extracted from registartion page="+data);
 		return data;
 	}
 	
 	public String getTextFrominvalidPWandUNLoginErrormessage() {
 		waitForVisibility(invalidPWandUNLoginErrorElement, 5,"invalid Password and username Login Error message");
-		String data= getTextFromElement(invalidPWandUNLoginErrorElement, "invalid Password and username Login Error message");
-		myLog.info("text extracted from registartion page="+data);
+		String data= getTextFromWebElement(invalidPWandUNLoginErrorElement, "invalid Password and username Login Error message");
+		log.info("text extracted from registartion page="+data);
 		return data;
 	}
 	
 	public String getLoginPage() {
 		waitForVisibility(LoginPageElement, 5,"Login Page");
-		String data= getTextFromElement(LoginPageElement, "Login Page");
-		myLog.info("text extracted from registartion page="+data);
+		String data= getTextFromWebElement(LoginPageElement, "Login Page");
+		log.info("text extracted from registartion page="+data);
 		return data;
 	}
 	

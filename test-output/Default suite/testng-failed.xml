@@ -3,14 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.automation.tests.scripts.SalesforceAutomationScript">
+      <class name="com.automation.runners.FirebaseRunner">
         <methods>
-          <include name="setupBeforeTest"/>
-          <include name="setUpBeforeTestMethod"/>
-          <include name="tearDownAfterTestMethod"/>
-          <include name="LoginErrorMessage"/>
+          <include name="setUpClass"/>
+          <include name="tearDownClass"/>
+          <include name="runScenario" invocation-numbers="0 1"/>
         </methods>
-      </class> <!-- com.automation.tests.scripts.SalesforceAutomationScript -->
+      </class> <!-- com.automation.runners.FirebaseRunner -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

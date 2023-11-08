@@ -46,8 +46,8 @@ public class ForgotPasswordPage extends BasePage{
 	}
 	public String getTextFromForgotPasswordPageElement() {
 		waitForVisibility(ForgotPasswordPageElement, 5,"Forgot Password Page");
-		String data= getTextFromElement(ForgotPasswordPageElement, "Forgot Password Page");
-		myLog.info("text extracted from registartion page="+data);
+		String data= getTextFromWebElement(ForgotPasswordPageElement, "Forgot Password Page");
+		log.info("text extracted from registartion page="+data);
 		return data;
 	}
 
