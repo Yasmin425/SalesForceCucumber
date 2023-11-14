@@ -655,3 +655,691 @@
 20231105 21:01:36 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
 20231106 11:44:06 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
 20231106 11:44:07 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20231108 17:11:33 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20231108 17:11:34 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20231108 17:26:18 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20231108 17:26:19 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20231109 11:26:11 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20231109 11:26:12 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20231109 12:18:21 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20231109 12:18:23 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20231109 12:25:51 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20231109 12:25:53 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20231109 12:28:36 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20231109 12:28:42 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20231109 12:34:46 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java56 - https://login.salesforce.com/is entered
+20231109 12:34:46 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231109 12:34:47 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231109 12:34:47 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231109 12:34:47 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231109 12:34:47 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231109 12:34:47 INFO  [main] login.LoginPage LoginPage.java55 - text extracted from registartion page=Please enter your password.
+20231109 12:34:47 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java61 - current browser closed
+20231109 12:34:49 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java56 - https://login.salesforce.com/is entered
+20231109 12:34:49 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231109 12:34:49 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231109 12:34:50 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231109 12:34:50 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231109 12:34:51 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231109 12:34:51 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java61 - current browser closed
+20231112 17:28:39 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java61 - current browser closed
+20231112 17:28:41 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java56 - https://login.salesforce.com/is entered
+20231112 17:28:41 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 17:28:41 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 17:28:41 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 17:28:41 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 17:28:44 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 17:28:44 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java61 - current browser closed
+20231112 17:29:43 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java61 - current browser closed
+20231112 17:29:45 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java56 - https://login.salesforce.com/is entered
+20231112 17:29:45 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 17:29:45 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 17:29:45 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 17:29:45 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 17:29:47 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 17:29:47 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java61 - current browser closed
+20231112 17:33:35 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java61 - current browser closed
+20231112 17:33:58 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java61 - current browser closed
+20231112 17:37:28 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java56 - https://login.salesforce.com/is entered
+20231112 17:37:28 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 17:37:28 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 17:37:28 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 17:37:28 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 17:37:28 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 17:37:29 INFO  [main] login.LoginPage LoginPage.java55 - text extracted from registartion page=Please enter your password.
+20231112 17:37:29 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java61 - current browser closed
+20231112 17:37:31 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java56 - https://login.salesforce.com/is entered
+20231112 17:37:31 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 17:37:31 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 17:37:31 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 17:37:31 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 17:37:33 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 17:37:33 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java61 - current browser closed
+20231112 17:50:19 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java56 - https://login.salesforce.com/is entered
+20231112 17:50:19 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 17:50:19 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 17:50:19 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 17:50:20 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 17:50:20 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 17:50:20 INFO  [main] login.LoginPage LoginPage.java55 - text extracted from registartion page=Please enter your password.
+20231112 17:50:20 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java61 - current browser closed
+20231112 17:50:22 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java56 - https://login.salesforce.com/is entered
+20231112 17:50:22 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 17:50:23 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 17:50:23 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 17:50:23 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 17:50:25 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 17:50:26 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 17:50:26 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java61 - current browser closed
+20231112 17:57:13 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java56 - https://login.salesforce.com/is entered
+20231112 17:57:14 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 17:57:14 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 17:57:14 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 17:57:14 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 17:57:14 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 17:57:15 INFO  [main] login.LoginPage LoginPage.java55 - text extracted from registartion page=Please enter your password.
+20231112 17:57:15 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java61 - current browser closed
+20231112 17:57:16 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java56 - https://login.salesforce.com/is entered
+20231112 17:57:16 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 17:57:17 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 17:57:17 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 17:57:17 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 17:57:18 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 17:57:20 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 17:57:20 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java61 - current browser closed
+20231112 17:57:22 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java56 - https://login.salesforce.com/is entered
+20231112 17:57:22 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 17:57:22 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 17:57:22 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 17:57:22 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 17:57:22 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java61 - current browser closed
+20231112 18:09:36 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java56 - https://login.salesforce.com/is entered
+20231112 18:09:36 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 18:09:36 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 18:09:37 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 18:09:37 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 18:09:37 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 18:09:37 INFO  [main] login.LoginPage LoginPage.java55 - text extracted from registartion page=Please enter your password.
+20231112 18:09:38 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java61 - current browser closed
+20231112 18:09:40 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java56 - https://login.salesforce.com/is entered
+20231112 18:09:40 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 18:09:40 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 18:09:40 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 18:09:40 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 18:09:42 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 18:09:43 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 18:09:43 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java61 - current browser closed
+20231112 18:09:46 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java56 - https://login.salesforce.com/is entered
+20231112 18:09:46 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 18:09:46 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 18:09:46 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 18:09:46 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 18:09:46 INFO  [main] base.BasePage BasePage.java69 - pass:Remember Me Checkbox element clicked
+20231112 18:09:47 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 18:09:48 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 18:09:49 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java61 - current browser closed
+20231112 18:12:05 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java56 - https://login.salesforce.com/is entered
+20231112 18:12:06 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 18:12:06 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 18:12:06 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 18:12:06 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 18:12:07 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 18:12:07 INFO  [main] login.LoginPage LoginPage.java55 - text extracted from registartion page=Please enter your password.
+20231112 18:12:07 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java61 - current browser closed
+20231112 18:12:09 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java56 - https://login.salesforce.com/is entered
+20231112 18:12:09 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 18:12:09 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 18:12:09 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 18:12:09 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 18:12:11 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 18:12:13 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 18:12:13 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java61 - current browser closed
+20231112 18:12:15 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java56 - https://login.salesforce.com/is entered
+20231112 18:12:15 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 18:12:15 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 18:12:16 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 18:12:16 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 18:12:16 INFO  [main] base.BasePage BasePage.java69 - pass:Remember Me Checkbox element clicked
+20231112 18:12:17 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 18:12:19 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 18:12:19 INFO  [main] base.BasePage BasePage.java69 - pass:Selecting Yasmin Yassin Tab element clicked
+20231112 18:12:19 INFO  [main] base.BasePage BasePage.java69 - pass:Logout button element clicked
+20231112 18:12:19 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java61 - current browser closed
+20231112 18:14:21 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java56 - https://login.salesforce.com/is entered
+20231112 18:14:22 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 18:14:22 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 18:14:22 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 18:14:22 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 18:14:23 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 18:14:23 INFO  [main] login.LoginPage LoginPage.java55 - text extracted from registartion page=Please enter your password.
+20231112 18:14:23 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java61 - current browser closed
+20231112 18:14:24 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java56 - https://login.salesforce.com/is entered
+20231112 18:14:25 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 18:14:25 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 18:14:25 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 18:14:25 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 18:14:27 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 18:14:28 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 18:14:28 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java61 - current browser closed
+20231112 18:14:30 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java56 - https://login.salesforce.com/is entered
+20231112 18:14:30 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 18:14:30 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 18:14:30 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 18:14:31 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 18:14:31 INFO  [main] base.BasePage BasePage.java69 - pass:Remember Me Checkbox element clicked
+20231112 18:14:32 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 18:14:33 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 18:14:33 INFO  [main] base.BasePage BasePage.java69 - pass:Selecting Yasmin Yassin Tab element clicked
+20231112 18:14:33 INFO  [main] base.BasePage BasePage.java69 - pass:Logout button element clicked
+20231112 18:14:33 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java61 - current browser closed
+20231112 18:15:14 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java56 - https://login.salesforce.com/is entered
+20231112 18:15:14 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 18:15:14 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 18:15:14 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 18:15:15 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 18:15:15 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 18:15:15 INFO  [main] login.LoginPage LoginPage.java55 - text extracted from registartion page=Please enter your password.
+20231112 18:15:15 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java61 - current browser closed
+20231112 18:15:17 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java56 - https://login.salesforce.com/is entered
+20231112 18:15:17 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 18:15:17 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 18:15:17 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 18:15:17 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 18:15:19 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 18:15:20 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 18:15:20 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java61 - current browser closed
+20231112 18:15:22 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java56 - https://login.salesforce.com/is entered
+20231112 18:15:22 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 18:15:22 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 18:15:22 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 18:15:23 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 18:15:23 INFO  [main] base.BasePage BasePage.java69 - pass:Remember Me Checkbox element clicked
+20231112 18:15:24 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 18:15:26 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 18:15:26 INFO  [main] base.BasePage BasePage.java69 - pass:Selecting Yasmin Yassin Tab element clicked
+20231112 18:15:27 INFO  [main] base.BasePage BasePage.java69 - pass:Logout button element clicked
+20231112 18:15:27 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java61 - current browser closed
+20231112 18:24:02 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java56 - https://login.salesforce.com/is entered
+20231112 18:24:03 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 18:24:03 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 18:24:03 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 18:24:03 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 18:24:03 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 18:24:04 INFO  [main] login.LoginPage LoginPage.java55 - text extracted from registartion page=Please enter your password.
+20231112 18:24:04 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java61 - current browser closed
+20231112 18:24:05 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java56 - https://login.salesforce.com/is entered
+20231112 18:24:06 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 18:24:06 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 18:24:06 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 18:24:06 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 18:24:08 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 18:24:09 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 18:24:09 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java61 - current browser closed
+20231112 18:24:11 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java56 - https://login.salesforce.com/is entered
+20231112 18:24:11 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 18:24:11 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 18:24:11 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 18:24:12 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 18:24:12 INFO  [main] base.BasePage BasePage.java69 - pass:Remember Me Checkbox element clicked
+20231112 18:24:13 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 18:24:14 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 18:24:14 INFO  [main] base.BasePage BasePage.java69 - pass:Selecting Yasmin Yassin Tab element clicked
+20231112 18:24:15 INFO  [main] base.BasePage BasePage.java69 - pass:Logout button element clicked
+20231112 18:24:16 INFO  [main] login.LoginPage LoginPage.java69 - text extracted from registartion page=Username
+20231112 18:24:16 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java61 - current browser closed
+20231112 18:41:01 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 18:41:01 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 18:41:02 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 18:41:02 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 18:41:02 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 18:41:02 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 18:41:03 INFO  [main] login.LoginPage LoginPage.java55 - text extracted from registartion page=Please enter your password.
+20231112 18:41:03 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 18:41:05 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 18:41:05 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 18:41:05 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 18:41:05 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 18:41:05 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 18:41:07 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 18:41:09 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 18:41:09 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 18:41:11 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 18:41:11 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 18:41:11 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 18:41:12 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 18:41:12 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 18:41:12 INFO  [main] base.BasePage BasePage.java69 - pass:Remember Me Checkbox element clicked
+20231112 18:41:13 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 18:41:15 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 18:41:15 INFO  [main] base.BasePage BasePage.java69 - pass:Selecting Yasmin Yassin Tab element clicked
+20231112 18:41:15 INFO  [main] base.BasePage BasePage.java69 - pass:Logout button element clicked
+20231112 18:41:16 INFO  [main] login.LoginPage LoginPage.java69 - text extracted from registartion page=Username
+20231112 18:41:16 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 18:41:18 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 18:41:18 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 18:45:21 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 18:45:21 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 18:45:21 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 18:45:21 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 18:45:21 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 18:45:22 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 18:45:22 INFO  [main] login.LoginPage LoginPage.java55 - text extracted from registartion page=Please enter your password.
+20231112 18:45:22 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 18:45:24 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 18:45:24 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 18:45:24 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 18:45:25 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 18:45:25 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 18:45:27 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 18:45:27 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 18:45:28 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 18:45:30 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 18:45:30 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 18:45:30 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 18:45:30 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 18:45:30 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 18:45:30 INFO  [main] base.BasePage BasePage.java69 - pass:Remember Me Checkbox element clicked
+20231112 18:45:32 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 18:45:33 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 18:45:33 INFO  [main] base.BasePage BasePage.java69 - pass:Selecting Yasmin Yassin Tab element clicked
+20231112 18:45:33 INFO  [main] base.BasePage BasePage.java69 - pass:Logout button element clicked
+20231112 18:45:35 INFO  [main] login.LoginPage LoginPage.java69 - text extracted from registartion page=Username
+20231112 18:45:35 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 18:45:37 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 18:45:37 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 18:49:46 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 18:49:46 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 18:49:46 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 18:49:47 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 18:49:47 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 18:49:47 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 18:49:47 INFO  [main] login.LoginPage LoginPage.java55 - text extracted from registartion page=Please enter your password.
+20231112 18:49:47 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 18:49:49 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 18:49:50 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 18:49:50 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 18:49:50 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 18:49:50 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 18:49:52 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 18:49:53 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 18:49:53 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 18:49:55 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 18:49:55 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 18:49:55 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 18:49:56 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 18:49:56 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 18:49:56 INFO  [main] base.BasePage BasePage.java69 - pass:Remember Me Checkbox element clicked
+20231112 18:49:57 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 18:49:59 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 18:49:59 INFO  [main] base.BasePage BasePage.java69 - pass:Selecting Yasmin Yassin Tab element clicked
+20231112 18:49:59 INFO  [main] base.BasePage BasePage.java69 - pass:Logout button element clicked
+20231112 18:50:00 INFO  [main] login.LoginPage LoginPage.java69 - text extracted from registartion page=Username
+20231112 18:50:00 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 18:50:02 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 18:50:02 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 18:53:49 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 18:53:49 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 18:53:49 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 18:53:49 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 18:53:49 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 18:53:50 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 18:53:50 INFO  [main] login.LoginPage LoginPage.java55 - text extracted from registartion page=Please enter your password.
+20231112 18:53:50 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 18:53:52 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 18:53:52 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 18:53:52 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 18:53:52 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 18:53:52 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 18:53:54 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 18:53:55 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 18:53:55 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 18:53:57 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 18:53:57 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 18:53:57 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 18:53:58 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 18:53:58 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 18:53:58 INFO  [main] base.BasePage BasePage.java69 - pass:Remember Me Checkbox element clicked
+20231112 18:53:59 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 18:54:01 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 18:54:01 INFO  [main] base.BasePage BasePage.java69 - pass:Selecting Yasmin Yassin Tab element clicked
+20231112 18:54:01 INFO  [main] base.BasePage BasePage.java69 - pass:Logout button element clicked
+20231112 18:54:02 INFO  [main] login.LoginPage LoginPage.java69 - text extracted from registartion page=Username
+20231112 18:54:02 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 18:54:04 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 18:54:04 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 18:59:55 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 18:59:55 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 18:59:55 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 18:59:56 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 18:59:56 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 18:59:56 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 18:59:56 INFO  [main] login.LoginPage LoginPage.java55 - text extracted from registartion page=Please enter your password.
+20231112 18:59:57 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 18:59:59 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 18:59:59 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 18:59:59 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 18:59:59 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 18:59:59 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 19:00:01 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 19:00:04 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 19:00:04 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 19:00:06 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 19:00:06 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 19:00:06 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 19:00:07 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 19:00:07 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 19:00:07 INFO  [main] base.BasePage BasePage.java69 - pass:Remember Me Checkbox element clicked
+20231112 19:00:08 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 19:00:09 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 19:00:10 INFO  [main] base.BasePage BasePage.java69 - pass:Selecting Yasmin Yassin Tab element clicked
+20231112 19:00:10 INFO  [main] base.BasePage BasePage.java69 - pass:Logout button element clicked
+20231112 19:00:11 INFO  [main] login.LoginPage LoginPage.java69 - text extracted from registartion page=Username
+20231112 19:00:11 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 19:00:13 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 19:00:13 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 19:01:54 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 19:01:55 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 19:01:55 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 19:01:55 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 19:01:55 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 19:01:56 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 19:01:56 INFO  [main] login.LoginPage LoginPage.java55 - text extracted from registartion page=Please enter your password.
+20231112 19:01:56 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 19:01:58 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 19:01:58 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 19:01:58 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 19:01:58 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 19:01:58 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 19:02:00 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 19:02:03 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 19:02:03 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 19:02:05 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 19:02:05 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 19:02:05 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 19:02:05 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 19:02:05 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 19:02:06 INFO  [main] base.BasePage BasePage.java69 - pass:Remember Me Checkbox element clicked
+20231112 19:02:07 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 19:02:08 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 19:02:08 INFO  [main] base.BasePage BasePage.java69 - pass:Selecting Yasmin Yassin Tab element clicked
+20231112 19:02:09 INFO  [main] base.BasePage BasePage.java69 - pass:Logout button element clicked
+20231112 19:02:10 INFO  [main] login.LoginPage LoginPage.java69 - text extracted from registartion page=Username
+20231112 19:02:10 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 19:02:12 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 19:02:12 INFO  [main] base.BasePage BasePage.java69 - pass:Forgot your Password link element clicked
+20231112 19:02:13 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 19:05:16 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 19:05:16 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 19:05:16 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 19:05:16 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 19:05:16 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 19:05:17 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 19:05:17 INFO  [main] login.LoginPage LoginPage.java55 - text extracted from registartion page=Please enter your password.
+20231112 19:05:17 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 19:05:19 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 19:05:19 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 19:05:19 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 19:05:20 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 19:05:20 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 19:05:21 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 19:05:23 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 19:05:23 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 19:05:25 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 19:05:25 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 19:05:25 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 19:05:25 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 19:05:25 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 19:05:26 INFO  [main] base.BasePage BasePage.java69 - pass:Remember Me Checkbox element clicked
+20231112 19:05:27 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 19:05:30 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 19:05:30 INFO  [main] base.BasePage BasePage.java69 - pass:Selecting Yasmin Yassin Tab element clicked
+20231112 19:05:31 INFO  [main] base.BasePage BasePage.java69 - pass:Logout button element clicked
+20231112 19:05:32 INFO  [main] login.LoginPage LoginPage.java69 - text extracted from registartion page=Username
+20231112 19:05:32 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 19:05:34 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 19:05:34 INFO  [main] base.BasePage BasePage.java69 - pass:Forgot your Password link element clicked
+20231112 19:05:34 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 19:08:24 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 19:08:24 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 19:08:24 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 19:08:24 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 19:08:24 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 19:08:25 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 19:08:25 INFO  [main] login.LoginPage LoginPage.java55 - text extracted from registartion page=Please enter your password.
+20231112 19:08:25 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 19:08:26 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 19:08:27 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 19:08:27 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 19:08:27 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 19:08:27 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 19:08:29 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 19:08:30 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 19:08:30 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 19:08:32 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 19:08:32 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 19:08:32 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 19:08:32 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 19:08:32 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 19:08:33 INFO  [main] base.BasePage BasePage.java69 - pass:Remember Me Checkbox element clicked
+20231112 19:08:33 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 19:08:35 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 19:08:35 INFO  [main] base.BasePage BasePage.java69 - pass:Selecting Yasmin Yassin Tab element clicked
+20231112 19:08:35 INFO  [main] base.BasePage BasePage.java69 - pass:Logout button element clicked
+20231112 19:08:37 INFO  [main] login.LoginPage LoginPage.java69 - text extracted from registartion page=Username
+20231112 19:08:37 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 19:08:39 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 19:08:39 INFO  [main] base.BasePage BasePage.java69 - pass:Forgot your Password link element clicked
+20231112 19:08:39 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 19:09:00 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 19:09:00 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 19:09:01 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 19:09:01 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 19:09:01 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 19:09:01 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 19:09:01 INFO  [main] login.LoginPage LoginPage.java55 - text extracted from registartion page=Please enter your password.
+20231112 19:09:01 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 19:09:03 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 19:09:03 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 19:09:04 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 19:09:04 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 19:09:04 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 19:09:07 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 19:09:07 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 19:09:07 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 19:09:08 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 19:09:09 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 19:09:09 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 19:09:09 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 19:09:09 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 19:09:09 INFO  [main] base.BasePage BasePage.java69 - pass:Remember Me Checkbox element clicked
+20231112 19:09:10 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 19:09:13 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 19:09:13 INFO  [main] base.BasePage BasePage.java69 - pass:Selecting Yasmin Yassin Tab element clicked
+20231112 19:09:13 INFO  [main] base.BasePage BasePage.java69 - pass:Logout button element clicked
+20231112 19:09:15 INFO  [main] login.LoginPage LoginPage.java69 - text extracted from registartion page=Username
+20231112 19:09:15 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 19:09:16 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 19:09:16 INFO  [main] base.BasePage BasePage.java69 - pass:Forgot your Password link element clicked
+20231112 19:09:16 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 19:11:31 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 19:11:31 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 19:11:32 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 19:11:32 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 19:11:32 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 19:11:32 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 19:11:32 INFO  [main] login.LoginPage LoginPage.java55 - text extracted from registartion page=Please enter your password.
+20231112 19:11:32 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 19:11:34 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 19:11:34 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 19:11:34 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 19:11:34 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 19:11:35 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 19:11:37 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 19:11:39 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 19:11:39 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 19:11:41 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 19:11:41 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 19:11:41 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 19:11:41 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 19:11:42 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 19:11:42 INFO  [main] base.BasePage BasePage.java69 - pass:Remember Me Checkbox element clicked
+20231112 19:11:43 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 19:11:44 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 19:11:44 INFO  [main] base.BasePage BasePage.java69 - pass:Selecting Yasmin Yassin Tab element clicked
+20231112 19:11:44 INFO  [main] base.BasePage BasePage.java69 - pass:Logout button element clicked
+20231112 19:11:45 INFO  [main] login.LoginPage LoginPage.java69 - text extracted from registartion page=Username
+20231112 19:11:45 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 19:11:47 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 19:11:47 INFO  [main] base.BasePage BasePage.java69 - pass:Forgot your Password link element clicked
+20231112 19:11:47 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 19:14:17 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 19:14:18 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 19:14:18 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 19:14:18 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 19:14:18 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 19:14:18 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 19:14:19 INFO  [main] login.LoginPage LoginPage.java55 - text extracted from registartion page=Please enter your password.
+20231112 19:14:19 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 19:14:21 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 19:14:21 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 19:14:21 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 19:14:21 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 19:14:21 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 19:14:22 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 19:14:24 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 19:14:24 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 19:14:26 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 19:14:26 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 19:14:27 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 19:14:27 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 19:14:27 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 19:14:27 INFO  [main] base.BasePage BasePage.java69 - pass:Remember Me Checkbox element clicked
+20231112 19:14:28 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 19:14:30 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 19:14:30 INFO  [main] base.BasePage BasePage.java69 - pass:Selecting Yasmin Yassin Tab element clicked
+20231112 19:14:30 INFO  [main] base.BasePage BasePage.java69 - pass:Logout button element clicked
+20231112 19:14:32 INFO  [main] login.LoginPage LoginPage.java69 - text extracted from registartion page=Username
+20231112 19:14:32 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 19:14:34 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 19:14:34 INFO  [main] base.BasePage BasePage.java69 - pass:Forgot your Password link element clicked
+20231112 19:14:34 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 19:16:36 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 19:16:36 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 19:16:36 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 19:16:36 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 19:16:36 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 19:16:37 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 19:16:37 INFO  [main] login.LoginPage LoginPage.java55 - text extracted from registartion page=Please enter your password.
+20231112 19:16:37 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 19:16:38 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 19:16:39 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 19:16:39 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 19:16:39 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 19:16:39 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 19:16:40 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 19:16:41 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 19:16:42 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 19:16:43 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 19:16:43 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 19:16:44 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 19:16:44 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 19:16:44 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 19:16:44 INFO  [main] base.BasePage BasePage.java69 - pass:Remember Me Checkbox element clicked
+20231112 19:16:45 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 19:16:47 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 19:16:47 INFO  [main] base.BasePage BasePage.java69 - pass:Selecting Yasmin Yassin Tab element clicked
+20231112 19:16:47 INFO  [main] base.BasePage BasePage.java69 - pass:Logout button element clicked
+20231112 19:16:48 INFO  [main] login.LoginPage LoginPage.java69 - text extracted from registartion page=Username
+20231112 19:16:48 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 19:16:50 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 19:16:50 INFO  [main] base.BasePage BasePage.java69 - pass:Forgot your Password link element clicked
+20231112 19:16:50 INFO  [main] ForgotPW.ForgotPasswordPage ForgotPasswordPage.java50 - text extracted from registartion page=Forgot Your Password
+20231112 19:16:51 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 19:16:51 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 19:16:51 INFO  [main] base.BasePage BasePage.java69 - pass:continue button element clicked
+20231112 19:16:51 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 20:05:15 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 20:05:15 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 20:05:15 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 20:05:16 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 20:05:16 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 20:05:16 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 20:05:16 INFO  [main] login.LoginPage LoginPage.java55 - text extracted from registartion page=Please enter your password.
+20231112 20:05:17 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 20:05:18 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 20:05:19 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 20:05:19 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 20:05:19 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 20:05:19 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 20:05:21 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 20:05:22 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 20:05:22 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 20:05:24 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 20:05:24 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 20:05:25 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 20:05:25 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 20:05:25 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 20:05:25 INFO  [main] base.BasePage BasePage.java69 - pass:Remember Me Checkbox element clicked
+20231112 20:05:26 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 20:05:28 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 20:05:28 INFO  [main] base.BasePage BasePage.java69 - pass:Selecting Yasmin Yassin Tab element clicked
+20231112 20:05:28 INFO  [main] base.BasePage BasePage.java69 - pass:Logout button element clicked
+20231112 20:05:29 INFO  [main] login.LoginPage LoginPage.java69 - text extracted from registartion page=Username
+20231112 20:05:29 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 20:05:31 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 20:05:31 INFO  [main] base.BasePage BasePage.java69 - pass:Forgot your Password link element clicked
+20231112 20:05:31 INFO  [main] ForgotPW.ForgotPasswordPage ForgotPasswordPage.java50 - text extracted from registartion page=Forgot Your Password
+20231112 20:05:31 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 20:05:32 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 20:05:32 INFO  [main] base.BasePage BasePage.java69 - pass:continue button element clicked
+20231112 20:05:32 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 20:05:34 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 20:05:34 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 20:05:35 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 20:05:35 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 20:05:35 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 20:05:35 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 20:05:35 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 20:08:36 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 20:08:36 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 20:08:37 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 20:08:37 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 20:08:37 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 20:08:37 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 20:08:37 INFO  [main] login.LoginPage LoginPage.java55 - text extracted from registartion page=Please enter your password.
+20231112 20:08:37 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 20:08:39 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 20:08:40 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 20:08:40 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 20:08:40 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 20:08:40 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 20:08:42 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 20:08:43 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 20:08:43 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 20:08:45 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 20:08:45 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 20:08:45 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 20:08:46 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 20:08:46 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 20:08:46 INFO  [main] base.BasePage BasePage.java69 - pass:Remember Me Checkbox element clicked
+20231112 20:08:47 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 20:08:48 INFO  [main] home.HomePage HomePage.java28 - text extracted from registartion page=Home
+20231112 20:08:48 INFO  [main] base.BasePage BasePage.java69 - pass:Selecting Yasmin Yassin Tab element clicked
+20231112 20:08:49 INFO  [main] base.BasePage BasePage.java69 - pass:Logout button element clicked
+20231112 20:08:50 INFO  [main] login.LoginPage LoginPage.java69 - text extracted from registartion page=Username
+20231112 20:08:50 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 20:08:52 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 20:08:52 INFO  [main] base.BasePage BasePage.java69 - pass:Forgot your Password link element clicked
+20231112 20:08:52 INFO  [main] ForgotPW.ForgotPasswordPage ForgotPasswordPage.java50 - text extracted from registartion page=Forgot Your Password
+20231112 20:08:53 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 20:08:53 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 20:08:53 INFO  [main] base.BasePage BasePage.java69 - pass:continue button element clicked
+20231112 20:08:54 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed
+20231112 20:08:56 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java58 - https://login.salesforce.com/is entered
+20231112 20:08:56 INFO  [main] base.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231112 20:08:56 INFO  [main] base.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231112 20:08:56 INFO  [main] base.BasePage BasePage.java59 - pass:password field  element cleared
+20231112 20:08:56 INFO  [main] base.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231112 20:08:56 INFO  [main] base.BasePage BasePage.java69 - pass:login button element clicked
+20231112 20:08:56 INFO  [main] login.LoginPage LoginPage.java62 - text extracted from registartion page=Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20231112 20:08:57 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java63 - current browser closed

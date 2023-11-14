@@ -8,13 +8,13 @@ import org.openqa.selenium.support.PageFactory;
 import com.automation.pages.base.BasePage;
 
 public class LoginPage extends BasePage{
-	@FindBy(name="username") WebElement userNameElement;
+	@FindBy(xpath="//*[@id=\"username\"]") WebElement userNameElement;
 	@FindBy(id="password") WebElement passwordElement;
 	@FindBy(id="Login") WebElement loginButtonElement;
 	@FindBy(id="rememberUn") WebElement RememberMeElement;
 	@FindBy(id="forgot_password_link") WebElement ForgotPasswordElement;
 	@FindBy(xpath="//*[@id=\"error\"]") WebElement EmptyPWLoginErrorElement;
-	@FindBy(xpath="//*[@id=\\\"usernamegroup\\\"]/label") WebElement LoginPageElement;
+	@FindBy(xpath="//*[@id=\"usernamegroup\"]/label") WebElement LoginPageElement; 
 	@FindBy(xpath="//*[@id=\"error\"]") WebElement invalidPWandUNLoginErrorElement;
 	
 	

@@ -73,9 +73,9 @@ public class BasePage {
 			}
 		}
 
-		/*public static WebDriver returnDriverInstance() {
+		public static WebDriver returnDriverInstance() {
 			return driver;
-		}*/
+		}
 		
 
 		public  String getPageTitle() {
